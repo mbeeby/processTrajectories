@@ -1,5 +1,4 @@
 # Tracking bacterial trajectories
-===============================
 
 ## Taking videos
 
