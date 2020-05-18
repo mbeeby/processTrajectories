@@ -1,3 +1,6 @@
+Tracking bacterial trajectories
+===============================
+
 #Taking videos
 
 Using IC Capture on the Windows computer in the Campy room, I plugged in the camera attached to the microscope (black power cable and blue ethernet cable) and selected camera (DMK 23G618 (3410340)) from software - when opening for the first time, the Select camera dialog box should open automatically, otherwise, go to File -> New. Note - every once in a while, the software loses the camera or can't find it - just wiggle the black cable on top of the camera and File -> New or Fresh in the dialog box again to reacquire.
